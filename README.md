@@ -1,3 +1,3 @@
 # Demo
 
-Learning about git and github
+Learning about git and github!
